@@ -22,7 +22,7 @@ public class Animal{
       System.out.println("Dinner is prepared and i am eating");
     } else {
        cooking();
-       System.out.println("Dinner is prepared and i am eating");
+       System.out.println("Dinner is prepared and i am eating...");
     } 
   } 
   static void cooking(){
